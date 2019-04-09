@@ -1,0 +1,12 @@
+i a
+i b
+f c
+f d
+f r
+a = 5
+b = 6
+c = a - 2.5
+d = 1.5
+r = a * d
+p b
+p c
